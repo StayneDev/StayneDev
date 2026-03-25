@@ -58,10 +58,10 @@
 ```typescript
 const StayneDev = {
   name:        "Makalyster",
-  location:    "Brazil // sector: ADS @ UNIP",
+  location:    "Brazil",
 
   currentWork: [
-    "Building full-stack systems @ MIB",
+    "Building full-stack systems @ SynergyEcosys",
     "Developing Vermolin.UX — inventory & sales platform",
   ],
 
