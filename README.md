@@ -20,15 +20,15 @@
 ```
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayneDev&hide_border=true&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=EEEEEE&background=0d0d0d&stroke=00ff41"/>
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayneDev&layout=compact&hide_border=true&title_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
 </p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=StayneDev&show_icons=true&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayneDev&hide_border=true&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=EEEEEE&background=0d0d0d&stroke=00ff41"/>
 </p>
 
 
