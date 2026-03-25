@@ -6,7 +6,7 @@
   ███████╗   ██║   ███████║ ╚████╔╝ ██╔██╗ ██║█████╗       ██║  ██║█████╗  ██║   ██║
   ╚════██║   ██║   ██╔══██║  ╚██╔╝  ██║╚██╗██║██╔══╝       ██║  ██║██╔══╝  ╚██╗ ██╔╝
  ███████║   ██║   ██║  ██║   ██║   ██║ ╚████║███████╗     ██████╔╝███████╗ ╚████╔╝
- ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝     ╚═════╝ ╚══════╝  ╚═══╝
+╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝     ╚═════╝ ╚══════╝  ╚═══╝
 ```
 
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%3E+INITIALIZING+AGENT+PROFILE...;%3E+ACCESS+GRANTED+%2F%2F+WELCOME+TO+THE+GRID"/>
