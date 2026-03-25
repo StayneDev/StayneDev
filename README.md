@@ -57,7 +57,7 @@
 
 ```typescript
 const StayneDev = {
-  name:        "Makalyster",
+  name:        "Stayne",
   location:    "Brazil",
 
   currentWork: [
