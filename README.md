@@ -97,6 +97,11 @@ const StayneDev = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=0d0d0d&labelColor=00ff41"/>
+  <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=00ff41&labelColor=0d0d0d"/>
+  <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=003b00&labelColor=1a1a1a"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStayneDev&count_bg=%2300FF41&title_bg=%230d0d0d&icon=terminal&icon_color=%2300ff41&title=VISITORS&edge_flat=true"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStayneDev&count_bg=%230d0d0d&title_bg=%2300ff41&icon=github&icon_color=%230d0d0d&title=VISITORS&edge_flat=true"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStayneDev&count_bg=%2300b4d8&title_bg=%230d1b2a&icon=terminal&icon_color=%2300b4d8&title=VISITORS&edge_flat=true"/>
 </p>
 
 <div align="center">
