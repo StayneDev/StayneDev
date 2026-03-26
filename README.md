@@ -39,17 +39,17 @@
 ```
 
 <p align="center">
-  <img height="44" src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/.NET-141414?style=for-the-badge&logo=dotnet&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Bash-141414?style=for-the-badge&logo=gnubash&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Proxmox-141414?style=for-the-badge&logo=proxmox&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Kubernetes-141414?style=for-the-badge&logo=kubernetes&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=00ff41"/>
-  <img height="44" src="https://img.shields.io/badge/VSCode-141414?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBmZjQxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg=="/>
-  <img height="44" src="https://img.shields.io/badge/n8n-141414?style=for-the-badge&logo=n8n&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/.NET-141414?style=for-the-badge&logo=dotnet&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Bash-141414?style=for-the-badge&logo=gnubash&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Proxmox-141414?style=for-the-badge&logo=proxmox&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Kubernetes-141414?style=for-the-badge&logo=kubernetes&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/VSCode-141414?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBmZjQxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg=="/>
+  <img src="https://img.shields.io/badge/n8n-141414?style=for-the-badge&logo=n8n&logoColor=00ff41"/>
 </p>
 
 ---
@@ -97,11 +97,6 @@ const StayneDev = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=0d0d0d&labelColor=00ff41"/>
-  <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=00ff41&labelColor=0d0d0d"/>
-  <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=003b00&labelColor=1a1a1a"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStayneDev&count_bg=%2300FF41&title_bg=%230d0d0d&icon=terminal&icon_color=%2300ff41&title=VISITORS&edge_flat=true"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStayneDev&count_bg=%230d0d0d&title_bg=%2300ff41&icon=github&icon_color=%230d0d0d&title=VISITORS&edge_flat=true"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStayneDev&count_bg=%2300b4d8&title_bg=%230d1b2a&icon=terminal&icon_color=%2300b4d8&title=VISITORS&edge_flat=true"/>
 </p>
 
 <div align="center">
