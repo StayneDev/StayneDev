@@ -24,13 +24,19 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayneDev&layout=compact&hide_border=true&title_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=StayneDev&show_icons=true&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayneDev&layout=donut&hide_border=true&title_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
 </p>
+
+---
+
+```
+// ACTIVITY.GRAPH --------------------------------------------------------------
+```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=StayneDev&show_icons=true&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StayneDev&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true"/>
 </p>
-
 
 ---
 
