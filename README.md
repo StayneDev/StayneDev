@@ -96,7 +96,7 @@ const StayneDev = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StayneDev&color=000000&style=flat-square&label=//+visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=StayneDev&color=00ff41&style=flat-square&label=//+visitors"/>
 </p>
 
 <div align="center">
