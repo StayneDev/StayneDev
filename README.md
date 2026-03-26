@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Bash-141414?style=for-the-badge&logo=gnubash&logoColor=00ff41"/>
   <img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge&logo=postgresql&logoColor=00ff41"/>
   <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=00ff41"/>
-  <img src="https://img.shields.io/badge/VSCode-141414?style=for-the-badge&logo=visual-studio-code&logoColor=00ff41"/>
+  <img src="https://img.shields.io/badge/VSCode-141414?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41"/>
   <img src="https://img.shields.io/badge/n8n-141414?style=for-the-badge&logo=n8n&logoColor=00ff41"/>
 </p>
 
