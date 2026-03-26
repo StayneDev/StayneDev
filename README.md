@@ -96,7 +96,13 @@ const StayneDev = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StayneDev&color=00ff41&style=flat-square&label=//+visitors"/>
+  <svg height="22" width="180" xmlns="http://www.w3.org/2000/svg">
+    <rect width="180" height="22" fill="#000000" rx="3"/>
+    <rect width="180" height="22" fill="none" stroke="#00ff41" stroke-width="1" rx="3"/>
+    <line x1="105" y1="0" x2="105" y2="22" stroke="#00ff41" stroke-width="1"/>
+    <text x="52" y="15" font-family="Courier New,monospace" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="400">// visitors</text>
+    <text x="142" y="15" font-family="Courier New,monospace" font-size="11" fill="#00ff41" text-anchor="middle" font-weight="700">—</text>
+  </svg>
 </p>
 
 <div align="center">
