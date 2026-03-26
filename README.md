@@ -96,15 +96,9 @@ const StayneDev = {
 ---
 
 <p align="center">
-  <svg height="22" width="180" xmlns="http://www.w3.org/2000/svg">
-    <rect width="180" height="22" fill="#000000" rx="3"/>
-    <rect width="180" height="22" fill="none" stroke="#00ff41" stroke-width="1" rx="3"/>
-    <line x1="105" y1="0" x2="105" y2="22" stroke="#00ff41" stroke-width="1"/>
-    <text x="52" y="15" font-family="Courier New,monospace" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="400">// visitors</text>
-    <text x="142" y="15" font-family="Courier New,monospace" font-size="11" fill="#00ff41" text-anchor="middle" font-weight="700">—</text>
-  </svg>
+  <img src="https://komarev.com/ghpvc/?username=StayneDev&style=for-the-badge&label=VISITORS&color=00ff41&labelColor=0d0d0d"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=1000&color=008F11&center=true&vCenter=true&width=600&height=30&lines=%3E+SIGNAL+LOST...+RECONNECTING...+%5BOK%5D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=%3E+CONNECTION+ESTABLISHED+%2F%2F+SIGNAL+STABLE"/>
 </div>
