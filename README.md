@@ -1,13 +1,5 @@
 <div align="center">
-
-```
-  ███████╗████████╗ █████╗ ██╗   ██╗███╗   ██╗███████╗     ██████╗ ███████╗██╗   ██╗
-  ██╔════╝╚══██╔══╝██╔══██╗╚██╗ ██╔╝████╗  ██║██╔════╝     ██╔══██╗██╔════╝██║   ██║
-  ███████╗   ██║   ███████║ ╚████╔╝ ██╔██╗ ██║█████╗       ██║  ██║█████╗  ██║   ██║
-  ╚════██║   ██║   ██╔══██║  ╚██╔╝  ██║╚██╗██║██╔══╝       ██║  ██║██╔══╝  ╚██╗ ██╔╝
- ███████║   ██║   ██║  ██║   ██║   ██║ ╚████║███████╗     ██████╔╝███████╗ ╚████╔╝
-╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝     ╚═════╝ ╚══════╝  ╚═══╝
-```
+  <img src="banner.svg" width="100%"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%3E+INITIALIZING+AGENT+PROFILE...;%3E+ACCESS+GRANTED+%2F%2F+WELCOME+TO+THE+GRID"/>
 
@@ -15,9 +7,7 @@
 
 ---
 
-```
-// SYSTEM.STATS ----------------------------------------------------------------
-```
+<img src="header-system-stats.svg" width="100%"/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StayneDev&hide_border=true&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=EEEEEE&background=0d0d0d&stroke=00ff41"/>
@@ -30,9 +20,7 @@
 
 ---
 
-```
-// ACTIVITY.GRAPH --------------------------------------------------------------
-```
+<img src="header-activity-graph.svg" width="100%"/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StayneDev&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=00ff41&hide_border=true"/>
@@ -40,9 +28,7 @@
 
 ---
 
-```
-// TECH.STACK ------------------------------------------------------------------
-```
+<img src="header-tech-stack.svg" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=00ff41"/>
@@ -60,44 +46,11 @@
 
 ---
 
-```
-// AGENT.CONFIG ----------------------------------------------------------------
-```
+<img src="header-agent-config.svg" width="100%"/>
 
-```typescript
-const StayneDev = {
-  name:        "Stayne",
-  location:    "Brazil",
-
-  currentWork: [
-    "Building full-stack systems @ SynergyEcosys",
-    "Developing Vermolin.UX — inventory & sales platform",
-  ],
-
-  learning: [
-    "System architecture & DevOps",
-    "Infrastructure as Code",
-    "Cloud & self-hosted server management",
-  ],
-
-  stack: {
-    languages:  ["Java", "Python", ".NET", "Bash"],
-    infra:      ["Linux", "Proxmox", "Kubernetes", "Docker"],
-    databases:  ["PostgreSQL"],
-    tools:      ["Git", "VSCode", "n8n"],
-  },
-
-  os: [
-    "Arch Linux  // kernel: 6.14.9-arch1",
-    "Ubuntu      // kernel: 6.8.0-57-generic",
-    "Proxmox VE  // kernel: 6.8.12-1-pve",
-  ],
-
-  contact: "makalyster.devops@gmail.com",
-};
-
-// > AGENT ONLINE.
-```
+<p align="center">
+  <img src="agent-config.svg" width="100%"/>
+</p>
 
 ---
 
