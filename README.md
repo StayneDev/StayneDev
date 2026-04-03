@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StayneDev&show_icons=true&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayneDev&layout=donut&hide_border=true&title_color=00ff41&text_color=EEEEEE&bg_color=0d0d0d"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StayneDev&theme=merko"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StayneDev&theme=merko"/>
 </p>
 
 ---
