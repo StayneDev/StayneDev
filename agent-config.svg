@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <rect width="800" height="420" rx="8" fill="#0d0d0d" stroke="#1a1a1a" stroke-width="1"/>
+
+  <!-- line numbers bar -->
+  <rect x="0" y="0" width="40" height="420" rx="8" fill="#111111"/>
+
+  <style>
+    .code { font-family: 'Share Tech Mono', 'Courier New', monospace; font-size: 13px; }
+    .ln   { fill: #2a2a2a; font-family: 'Courier New', monospace; font-size: 12px; }
+    .kw   { fill: #abd200; } /* keyword: const, function */
+    .id   { fill: #68b587; } /* identifier */
+    .str  { fill: #7ec8a4; } /* string */
+    .key  { fill: #abd200; } /* object key */
+    .pun  { fill: #00ff41; } /* punctuation */
+    .cmt  { fill: #2d5a38; } /* comment */
+    .arr  { fill: #7ec8a4; } /* array values */
+    .num  { fill: #abd200; }
+  </style>
+
+  <!-- line numbers -->
+  <text x="26" y="30"  class="ln" text-anchor="middle">1</text>
+  <text x="26" y="46"  class="ln" text-anchor="middle">2</text>
+  <text x="26" y="62"  class="ln" text-anchor="middle">3</text>
+  <text x="26" y="78"  class="ln" text-anchor="middle">4</text>
+  <text x="26" y="94"  class="ln" text-anchor="middle">5</text>
+  <text x="26" y="110" class="ln" text-anchor="middle">6</text>
+  <text x="26" y="126" class="ln" text-anchor="middle">7</text>
+  <text x="26" y="142" class="ln" text-anchor="middle">8</text>
+  <text x="26" y="158" class="ln" text-anchor="middle">9</text>
+  <text x="26" y="174" class="ln" text-anchor="middle">10</text>
+  <text x="26" y="190" class="ln" text-anchor="middle">11</text>
+  <text x="26" y="206" class="ln" text-anchor="middle">12</text>
+  <text x="26" y="222" class="ln" text-anchor="middle">13</text>
+  <text x="26" y="238" class="ln" text-anchor="middle">14</text>
+  <text x="26" y="254" class="ln" text-anchor="middle">15</text>
+  <text x="26" y="270" class="ln" text-anchor="middle">16</text>
+  <text x="26" y="286" class="ln" text-anchor="middle">17</text>
+  <text x="26" y="302" class="ln" text-anchor="middle">18</text>
+  <text x="26" y="318" class="ln" text-anchor="middle">19</text>
+  <text x="26" y="334" class="ln" text-anchor="middle">20</text>
+  <text x="26" y="350" class="ln" text-anchor="middle">21</text>
+  <text x="26" y="366" class="ln" text-anchor="middle">22</text>
+  <text x="26" y="382" class="ln" text-anchor="middle">23</text>
+  <text x="26" y="398" class="ln" text-anchor="middle">24</text>
+
+  <!-- code -->
+  <text x="56" y="30"  class="code"><tspan class="kw">const</tspan><tspan class="pun"> </tspan><tspan class="id">StayneDev</tspan><tspan class="pun"> = {</tspan></text>
+  <text x="56" y="46"  class="code"><tspan class="pun">  </tspan><tspan class="key">name</tspan><tspan class="pun">:        </tspan><tspan class="str">"Stayne"</tspan><tspan class="pun">,</tspan></text>
+  <text x="56" y="62"  class="code"><tspan class="pun">  </tspan><tspan class="key">location</tspan><tspan class="pun">:    </tspan><tspan class="str">"Brazil"</tspan><tspan class="pun">,</tspan></text>
+  <text x="56" y="78"  class="code"> </text>
+  <text x="56" y="94"  class="code"><tspan class="pun">  </tspan><tspan class="key">currentWork</tspan><tspan class="pun">: [</tspan></text>
+  <text x="56" y="110" class="code"><tspan class="pun">    </tspan><tspan class="str">"Building full-stack systems @ SynergyEcosys"</tspan><tspan class="pun">,</tspan></text>
+  <text x="56" y="126" class="code"><tspan class="pun">    </tspan><tspan class="str">"Developing Vermolin.UX — inventory &amp; sales platform"</tspan><tspan class="pun">,</tspan></text>
+  <text x="56" y="142" class="code"><tspan class="pun">  ],</tspan></text>
+  <text x="56" y="158" class="code"> </text>
+  <text x="56" y="174" class="code"><tspan class="pun">  </tspan><tspan class="key">stack</tspan><tspan class="pun">: {</tspan></text>
+  <text x="56" y="190" class="code"><tspan class="pun">    </tspan><tspan class="key">languages</tspan><tspan class="pun">:  [</tspan><tspan class="str">"Java"</tspan><tspan class="pun">, </tspan><tspan class="str">"Python"</tspan><tspan class="pun">, </tspan><tspan class="str">".NET"</tspan><tspan class="pun">, </tspan><tspan class="str">"Bash"</tspan><tspan class="pun">],</tspan></text>
+  <text x="56" y="206" class="code"><tspan class="pun">    </tspan><tspan class="key">infra</tspan><tspan class="pun">:      [</tspan><tspan class="str">"Linux"</tspan><tspan class="pun">, </tspan><tspan class="str">"Proxmox"</tspan><tspan class="pun">, </tspan><tspan class="str">"Kubernetes"</tspan><tspan class="pun">, </tspan><tspan class="str">"Docker"</tspan><tspan class="pun">],</tspan></text>
+  <text x="56" y="222" class="code"><tspan class="pun">    </tspan><tspan class="key">databases</tspan><tspan class="pun">:  [</tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="pun">],</tspan></text>
+  <text x="56" y="238" class="code"><tspan class="pun">    </tspan><tspan class="key">tools</tspan><tspan class="pun">:      [</tspan><tspan class="str">"Git"</tspan><tspan class="pun">, </tspan><tspan class="str">"VSCode"</tspan><tspan class="pun">, </tspan><tspan class="str">"n8n"</tspan><tspan class="pun">],</tspan></text>
+  <text x="56" y="254" class="code"><tspan class="pun">  },</tspan></text>
+  <text x="56" y="270" class="code"> </text>
+  <text x="56" y="286" class="code"><tspan class="pun">  </tspan><tspan class="key">contact</tspan><tspan class="pun">: </tspan><tspan class="str">"makalyster.devops@gmail.com"</tspan><tspan class="pun">,</tspan></text>
+  <text x="56" y="302" class="code"><tspan class="pun">};</tspan></text>
+  <text x="56" y="318" class="code"> </text>
+  <text x="56" y="334" class="code"><tspan class="cmt">// &gt; AGENT ONLINE.</tspan></text>
+</svg>
